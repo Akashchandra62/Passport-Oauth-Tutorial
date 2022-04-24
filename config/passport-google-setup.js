@@ -47,5 +47,3 @@ passport.use(
     )
 )
 
-//ClienID : 994461052885-3qm6j0maornulb9cekrj3d52j2ejl7vf.apps.googleusercontent.com
-//client Secret : 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
